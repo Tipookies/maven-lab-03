@@ -1,0 +1,4 @@
+2026-05-04 03:14:35 [INFO] com.bank.model.Account - Nạp tiền thành công: tài khoản 123456789, số tiền 500.0
+2026-05-04 03:14:35 [DEBUG] com.bank.model.CheckingAccount - Nạp tiền thành công: tài khoản 123456789, số tiền 500.0
+2026-05-04 03:14:35 [INFO] com.bank.model.Account - Rút tiền thành công: tài khoản 123456789, số tiền 200.0
+2026-05-04 03:14:35 [DEBUG] com.bank.model.CheckingAccount - Rút tiền thành công: tài khoản 123456789, số tiền 200.0
