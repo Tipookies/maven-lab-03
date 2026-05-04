@@ -14,7 +14,7 @@ public class CustomerTest {
     Customer customer = new Customer(123456789L, "Nguyen Van A");
 
     assertEquals(
-        "SAI NOI DUNG",
+        "Số CMND: 123456789. Họ tên: Nguyen Van A."
         customer.getCustomerInfo());
   }
 
